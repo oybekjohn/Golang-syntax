@@ -1,2 +1,2 @@
-# Go-syntax
-Golang language learning  | GLL
+# 🐀 Go-syntax
+* Golang language learning in progress| GLL
